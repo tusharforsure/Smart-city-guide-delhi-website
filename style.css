@@ -1,0 +1,31 @@
+.wishlist-section {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.wishlist-section h3 {
+    font-size: 1.5rem;
+    color: #1e3c72;
+    margin-bottom: 10px;
+}
+
+.wishlist-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.wishlist-section ul li {
+    font-size: 1.1rem;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.wishlist-section ul li a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s ease;
+}
+
+.wishlist-section ul li a:hover {
+    color: #0056b3;
+}
